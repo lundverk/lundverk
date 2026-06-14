@@ -1,4 +1,8 @@
-## Lundverks 👋
+## Lundverk
+
+The purpose of the name is to create pockets of beautiful "groves" occupied by talented and well-meaning people.
+
+Currently building towards that goal, creating a heat map of Swedish housing real estate to provide insights into housing prices, details on the quality and characteristics of listings.
 
 <!--
 **lundverk/lundverk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
